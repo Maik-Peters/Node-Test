@@ -1,0 +1,25 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maik-Peters/Node-Test.git"
+  },
+  "keywords": [
+    "saison2015"
+  ],
+  "author": "Maik Peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maik-Peters/Node-Test/issues"
+  },
+  "homepage": "https://github.com/Maik-Peters/Node-Test#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
